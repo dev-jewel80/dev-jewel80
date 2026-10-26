@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Jewel Rana</h1>
+
 <h3 align="center">Professional Web Designer Developer & WordPress Expert | Helping Businesses and Creators Build Stunning, Functional Websites.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dev-jewel80&label=Profile%20views&color=0e75b6&style=flat" alt="dev-jewel80" /> </p>
