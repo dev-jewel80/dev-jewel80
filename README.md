@@ -1,4 +1,4 @@
-<a href="https://ibb.co/fGYq2nrb"><img src="https://i.ibb.co/rfGFmc5g/jr.png" alt="jr" border="0" /></a>
+<a href="https://ibb.co/fGYq2nrb"><img src="https://i.ibb.co/rfGFmc5g/jr.png" alt=Web Designer Developer"jr" border="0" /></a>
 <h3 align="center">Professional Web Designer Developer & WordPress Expert | Helping Businesses and Creators Build Stunning, Functional Websites.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dev-jewel80&label=Profile%20views&color=0e75b6&style=flat" alt="dev-jewel80" /> </p>
